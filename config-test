@@ -1,2 +1,3 @@
-test: 
-  test版本的配置中心，vserion：1
+config: 
+  test: test config ，verion：1
+  
